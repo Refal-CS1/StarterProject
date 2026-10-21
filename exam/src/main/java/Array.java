@@ -1,3 +1,4 @@
+\\fills an array then finds largest number
 import java.util.*;
 public class ex11 {
     public static void main(String[] args) {
