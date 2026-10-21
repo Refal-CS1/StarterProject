@@ -1,3 +1,4 @@
+\\ATM that offers three choices 1-show case amount 2-deposit 3-withdraw
 import java.util.Scanner;
 public class ex4 {
     public static void main(String[] args) {
