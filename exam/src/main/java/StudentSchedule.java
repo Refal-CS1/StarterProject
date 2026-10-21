@@ -1,3 +1,4 @@
+\\designs a schedule for students and show cases the OFF days and each subject added
 import java.util.*;
 public class off {
     public static int countOff(String arr[][]){
