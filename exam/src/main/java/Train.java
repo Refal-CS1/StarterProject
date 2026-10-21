@@ -1,3 +1,4 @@
+\\acts as a train system that show cases an x on taken seats and a o on free spaces then asks to choose a seat
 import java.util.*;
 public class NewClass {
     public static void displaySeats(boolean arr[][]){
