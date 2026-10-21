@@ -1,4 +1,4 @@
-
+\\uses files path and calculates if the student passes or fails then prints the information
 package com.mycompany.examfinal;
 import java.util.*;
 import java.nio.file.Paths;
