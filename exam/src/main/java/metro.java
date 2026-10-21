@@ -1,3 +1,4 @@
+\\a project that shows the metro system and gathers passanger informations an reveals the price of tickets
 import java.util.*;
 public class metro {
     public static void main(String[] args) {
