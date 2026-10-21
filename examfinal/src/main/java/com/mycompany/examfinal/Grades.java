@@ -1,4 +1,4 @@
-
+\\recieves an array of grades and if the grade is (59,69,79,89) adds a grade to round it up
 package com.mycompany.examfinal;
 import java.util.*;
 public class psmv {
