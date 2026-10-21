@@ -1,4 +1,4 @@
-
+\\using Switch in Java
 import java.util.Scanner;
 
 public class ex5 {
