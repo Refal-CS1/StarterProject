@@ -9,8 +9,8 @@ public class fina {
      String code=parts[1];
      String serial=parts[2];
      
-        System.out.println("country: "+country+"code: "+code+"serial: "+serial);}
-     else{
+        System.out.println("country: "+country+"code: "+code+"serial: "+serial);
+     } else{
          System.out.println("invalid number");}
 return a;
     }
