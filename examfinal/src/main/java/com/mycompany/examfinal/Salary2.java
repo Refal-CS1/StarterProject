@@ -1,4 +1,4 @@
-
+//the continuing file for Salary
 package com.mycompany.examfinal;
 
 import java.util.Formatter;
